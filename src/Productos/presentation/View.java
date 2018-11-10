@@ -397,4 +397,7 @@ public class View extends javax.swing.JFrame implements Observer {
     private javax.swing.JLabel labelTipo;
     private javax.swing.JTable tablePrincipal;
     // End of variables declaration//GEN-END:variables
+ // ACM1PT 
+    //esto es una prueba
+
 }
